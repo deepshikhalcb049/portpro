@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,100;0,200;0,300;1,200&family=Kanit:ital,wght@0,100;0,200;0,400;1,100;1,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;1,200&family=Rubik+Pixels&family=Sedgwick+Ave+Display&display=swap');
+
+
+
+.yoo{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #767676;
+
+}
+.gr1{
+    background: radial-gradient(circle at 92%, #0082E4, #0082E4 2%, #0082E4 0%, #f9f9f9 5%);
+    opacity: 0.8;
+filter: blur(67px);
+}
+.gr2{
+    background: radial-gradient(circle at 3%, #0082E4, #0082E4 3%, #0082E4 0%, #f9f9f9 5%);
+    opacity: 0.8;
+filter: blur(60px);
+}
